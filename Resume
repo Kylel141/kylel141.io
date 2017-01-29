@@ -1,12 +1,29 @@
 <!DOCTYPE html>
+
 <html>
-    <head>
-        <title>Resume<title>
-    </head>
-    <body>
-        <p> Kyle L. </p>
-        <p> 123 somewhere way</p>
-        <p>Somewhereville, Co 12345</p>
-        <p> 303-303-3030</p>
+  
+<head>
+  
+  <title>Page Title</title>
+  
+</head>
+
+  <body>
+
+    <h1> About Me</h1>
+    <p>My name is Kyle, I am 15, I am Vietnamese, pretty much it.</p>
+    <h1>Grades</h1>
+    <p>I passed, all that matters</p>
+    <h1>Past Jobs</h1>
+    <p> I work with my dad in the summer, landscaping</p>
+    
+    <h1>Contact Info</h1>
+    <p>Kyle L</p>
+    <p>303-303-3030</p>
+    <p2>123 something something</p>
+    <p>123123123@gmail.com</p>
+  
     </body>
+  
+  
 </html>
